@@ -1,0 +1,17 @@
+.col-md-12{
+    padding: 0;
+}
+.my intro{
+    text-align: justify;
+}
+#inputEmail4{
+   width: 400px;
+}
+#inputPassword4{
+    width: 400px;
+}
+.abc{
+    display: flex;
+    
+   
+}
